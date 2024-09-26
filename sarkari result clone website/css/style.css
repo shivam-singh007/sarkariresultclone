@@ -1,0 +1,419 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+.outercontainer{
+    height: auto;
+    width: 80%;
+    margin: 0px 10%;
+    padding-top: 5px;
+}
+
+.logo{
+    background-color: rgb(134, 29, 29);
+    height: 250px;
+    width: 100%;
+}
+.logo img{
+    float: left;
+    padding: 30px;
+}
+.logo h1{
+text-align: center;
+padding-top: 70px;
+font-size: 50px;
+font-weight: 900px;
+color: white;
+}
+.logo p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400px;
+    color: white;
+}
+
+.item1{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    width: 12%;
+    text-align: center;
+}
+.item1 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item2{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12%;
+    text-align: center;
+}
+.item2 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item3{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12%;
+    text-align: center;
+}
+.item3 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item4{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12%;
+    text-align: center;
+}
+.item4 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item5{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12%;
+    text-align: center;
+}
+.item5 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item6{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12%;
+    text-align: center;
+}
+.item6 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 1px;
+}
+
+.item7{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 12.4%;
+    text-align: center;
+}
+.item7 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item8{
+    float: left;
+    background-color: black;
+    padding: 15px;
+    margin-left: 1px;
+    width: 15%;
+}
+.item8 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#text1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+#text2{
+    text-align: center;
+    color: rgb(245, 22, 22);
+    line-height: 70px;
+    font-size: 20px;
+    word-spacing: 5px;
+}
+
+.marquee{
+    height: auto;
+    width: 100%;
+}
+
+.marquee a{
+    color: blue;
+}
+
+.multisection{
+    padding-top: 100px;
+}
+
+.box1{
+    height: 100px;
+    width: 25%;
+    background-color: rgb(134, 142, 19);
+    float: left;
+    margin: 3px;
+    padding: 15px;
+}
+.box2{
+    height: 100px;
+    width: 25%;
+    background-color: blue;
+    float: left; 
+    margin: 3px;
+    padding: 15px;
+}
+.box3{
+    height: 100px;
+    width: 23%;
+    background-color: rgb(236, 98, 7);
+    float: left;
+    margin: 3px;
+    padding: 15px;
+}
+.box4{
+    height: 100px;
+    width: 25%;
+    background-color: rgb(161, 28, 13);
+    float: left; 
+    margin: 3px;
+    padding: 15px;
+}
+
+
+
+.box5{
+    height: 100px;
+    width: 25%;
+    background-color: red;
+    float: left;
+    margin: 3px;
+    padding: 15px;
+}
+.box6{
+    height: 100px;
+    width: 25%;
+    background-color: green;
+    float: left; 
+    margin: 3px;
+    padding: 15px;
+}
+.box7{
+    height: 100px;
+    width: 23%;
+    background-color: rgb(246, 9, 234);
+    float: left;
+    margin: 3px;
+    padding: 15px;
+}
+.box8{
+    height: 100px;
+    width: 25%;
+    background-color: rgb(17, 138, 243);
+    float: left; 
+    margin: 3px;
+    padding: 15px;
+}
+
+.multisection a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.jobsection{
+    height: auto;
+    width: 100%;
+    margin-top: 350px;
+}
+
+.jobsection h1{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(213, 13, 46);
+    text-align: center;
+    color: white;
+}
+.jobbox1{
+    height: 1000px;
+    width: 30%;
+    border: 3px solid orange;
+    float: left;
+}
+#aa1{
+    text-decoration: none;
+    margin-left: 200px;
+}
+.listitem1{
+    margin-left: 35px;
+    margin-top: 5px;
+    line-height: 50px;
+}
+.listitem1 a{
+    color: blue;
+    font-size: 20px;
+}
+.jobsection h1{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(213, 13, 46);
+    text-align: center;
+    color: white;
+}
+.jobbox2{
+    height: 1000px;
+    width: 30%;
+    border: 3px solid orange;
+    float: left;
+    margin-left:5%;
+}
+
+.jobsection h1{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(213, 13, 46);
+    text-align: center;
+    color: white;
+}
+.jobbox3{
+    height: 1000px;
+    width: 30%;
+    border: 3px solid orange;
+    float: left;
+    margin-left:5%;
+}
+.jobsection a{
+    text-align: center;
+}
+
+.jobsection2{
+    height: 900px;
+    width: 100%;
+    margin-top: 115%;
+}
+
+.jobbox4{
+    height: auto;
+    width: 30%;
+    border: 2px solid orange;
+    float: left;
+}
+.jobsection2 h1{
+    background-color: brown;
+    text-align: center;
+}
+.itemlist2{
+    height: auto;
+    width: 80%;
+    margin:5px 10%;
+}
+.itemlist2 a{
+    color: blue;
+    font-size: 18px;
+}
+.itemlist2 #aa1{
+    text-decoration: none;
+    font-size:22px;
+    margin-left: 180px;
+    line-height: 40px;
+}
+.jobbox5{
+    height: auto;
+    width: 30%;
+    border: 2px solid orange;
+    float: left;
+    margin-left: 50px;
+}
+.jobbox6{
+    height: auto;
+    width: 33%;
+    border: 2px solid orange;
+    float: left;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.itemlist3{
+    height: auto;
+    width: 80%;
+    margin:5px 10%;
+    color: blue;
+}
+.itemlist3 a{
+    line-height: 30px;
+    color: blue;
+}
+.itemlist3 #aa1{
+    font-size: 24px;
+}
+
+.jobbox7{
+    position: relative;
+    top: -200px;
+    height: auto;
+    width: 30%;
+    border: 2px solid orange;
+    float: left;
+    margin-top: -350px;
+}
+
+.jobbox7 h1{
+    background-color: brown;
+    text-align: center;
+}
+
+.jobbox8{
+    height: auto;
+    width: 30%;
+    position: relative;
+    top: -550px;
+    left: 412px;
+    border: 2px solid orange;
+}
+.jobbox8 h1{
+    background-color: brown;
+    text-align: center;
+}
+
+.footer{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    position: relative;
+    top: -500px;
+}
